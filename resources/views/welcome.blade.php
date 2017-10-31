@@ -85,7 +85,7 @@
                 <div class="links">
                     <a href="pesan">Pesan</a>
                     <a href="about">About</a>
-                    
+                    <a href="template">templating</a>
                 </div>
             </div>
         </div>
